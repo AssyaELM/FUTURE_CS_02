@@ -6,7 +6,7 @@ Author: Assia EL MOURTADAH
 ## Overview
 Safe, read-only analysis of 3 real phishing email samples: identify indicators,
 classify risk (Safe/Suspicious/Phishing), and provide awareness guidelines.
-Educational only — no links clicked, no attachments opened.
+Educational only no links clicked, no attachments opened.
 
 ## Samples
 | Sample | Pretends to be | Classification |
@@ -28,13 +28,6 @@ Educational only — no links clicked, no attachments opened.
 3. Check SPF/DKIM/DMARC in the header analyser.
 4. Defang and scan domains/links without visiting them.
 5. Identify indicators, then classify the risk.
-
-## Structure
-FUTURE_CS_02/
-├── Report.docx
-├── samples/    (3 .eml)
-├── evidence/   (email1, email2, email3 screenshots)
-└── README.md
 
 ## Ethical Statement
 All analysis was passive and conducted on public samples for education only.
