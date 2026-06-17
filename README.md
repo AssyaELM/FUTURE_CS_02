@@ -1,4 +1,4 @@
-# FUTURE_CS_02 — Phishing Email Detection & Awareness
+# FUTURE_CS_02  Phishing Email Detection & Awareness
 
 Cyber Security Internship · Future Interns · Task 2
 Author: Assia EL MOURTADAH
